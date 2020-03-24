@@ -1,5 +1,4 @@
 package com.community.admin.configuration;
-
 import org.apache.catalina.connector.Connector;
 import org.broadleafcommerce.common.extensibility.context.merge.Merge;
 import org.springframework.beans.factory.annotation.Value;
@@ -12,7 +11,7 @@ import org.springframework.context.annotation.ImportResource;
 
 import com.community.core.config.CoreConfig;
 import com.community.core.config.StringFactoryBean;
-
+/* Testing Change */
 import java.util.Arrays;
 import java.util.List;
 
